@@ -1,0 +1,66 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.image_logo{
+    max-width: 100px;
+    max-height: 100px;
+    margin: 0%;
+    padding: 0%;
+}
+
+main{
+    text-align: center;
+}
+
+#codes{
+    width: 98%;
+    height: 280px;
+    border-radius: 14px;
+    border: 2px solid #7AEDE6;
+    padding: 10px;
+}
+
+#buttons{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#buttons button{
+    width: 40%;
+    border-radius: 15px;
+    border: 0px;
+    padding: 13px;
+}
+
+#remove{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+#edit{
+    background-color: #1c1f1e;
+    color: white;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+#title-result{
+    margin: 10px;
+    border-bottom: 2px solid black;
+    font-weight: bold;
+    margin: 15px 5px;
+    font-size: larger;
+    background-color: #7AEDE6;
+    border-radius: 15px;
+}
+
+#result{
+    max-width: 100% !important;
+   
+}
+
+
